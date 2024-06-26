@@ -1,0 +1,5 @@
+delete.php a modfier 
+create projet 
+dashboard.php ??
+on enleve register.php 
+la partie responsable dequipe 
